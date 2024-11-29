@@ -1,4 +1,12 @@
-import { anichin, anichinDetail } from './Donghua/anichin.js';
-import { donghuaworld, donghuaworldDetail } from './Donghua/donghuaworld.js'
+const { anichin, anichinDetail } = require('./Donghua/anichin.js')
+const { donghuaworld, donghuaworldDetail } = require('./Donghua/donghuaworld.js')
+const { mcpedl, mcpedlDetail } = require('./Games/mcpedl.js')
 
-export { anichin, anichinDetail, donghuaworld, donghuaworldDetail }
+module.exports = { 
+anichin,
+anichinDetail, 
+donghuaworld,
+donghuaworldDetail,
+mcpedl,
+mcpedlDetail 
+}
