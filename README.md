@@ -37,7 +37,7 @@ anichin('soul land').then(data => {
 ### List Feature
 ---
 ```markdown
-- anichin: Cari Donghu@ Yang Anda Inginkan
+- anichin: Cari Donghua Yang Anda Inginkan
 - anichinDetail: Cari Detail Berdasarkan Url Yang Anda Berikan
 - donghuaworld: Cari Donghua Yang Anda Inginkan
 - donghuaworldDetail: Cari Detail Donghua Berdasarkan Url Anda
