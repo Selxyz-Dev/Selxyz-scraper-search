@@ -1,0 +1,24 @@
+{
+  "name": "belajar-1",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "next": "15.0.3",
+    "fs": "0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "hercai": "^12.4.0",
+    "javascript-obfuscator": "^4.1.1", 
+    "reverbnation-scraper": "^2.0.0", 
+    "btch-downloader": "^2.8.1", 
+    "react": "^18.0.0",
+    "multer": "1.4.5-lts.1", 
+    "react-dom": "^18.0.0",
+    "swagger-ui-react": "^5.18.2"
+  }
+}
