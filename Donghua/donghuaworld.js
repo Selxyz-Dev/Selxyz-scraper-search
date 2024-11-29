@@ -1,5 +1,5 @@
-import axios from 'axios';
-import * as cheerio from 'cheerio';
+const axios = require('axios');
+const cheerio = require('cheerio');
 
 async function donghuaworld(search) {
   try {
@@ -74,4 +74,4 @@ async function donghuaworldDetail(url) {
   }
 }
 
-export { donghuaworld, donghuaworldDetail }
+module.exports = { donghuaworld, donghuaworldDetail }
