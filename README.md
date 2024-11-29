@@ -10,6 +10,7 @@ Untuk menginstal modul `selxyz-scraper-search`, gunakan perintah npm berikut:
 
 ```bash
 $ npm install selxyz-scraper-search
+```
 
 # Cara Penggunaan
 - 1. Mengimpor Modul
