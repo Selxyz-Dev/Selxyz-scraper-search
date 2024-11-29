@@ -36,7 +36,8 @@ anichin('soul land').then(data => {
 
 ### List Feature
 ---
-- anichin: Cari Donghua Yang Anda Inginkan
+```markdown
+- anichin: Cari Donghu@ Yang Anda Inginkan
 - anichinDetail: Cari Detail Berdasarkan Url Yang Anda Berikan
 - donghuaworld: Cari Donghua Yang Anda Inginkan
 - donghuaworldDetail: Cari Detail Donghua Berdasarkan Url Anda
@@ -46,6 +47,7 @@ anichin('soul land').then(data => {
 - steamDetail: Cari Detail Game Pc Untuk Anda
 - codeSearch: Cari Code Yang Anda Inginkan
 - revSearch: Cari Lagu Dengan Reverb
+```
 ---
 
 # Kontributor
