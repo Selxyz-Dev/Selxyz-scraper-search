@@ -9,6 +9,8 @@
 $ npm i selxyz-scraper-search
 ```
 
+# How To Use? 
+
 ```javascript
 import { anichin } from 'selxyz-scraper-search';
 
