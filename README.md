@@ -49,14 +49,17 @@ anichin('soul land').then(data => {
 - revSearch: Cari Lagu Dengan Reverb
 ```
 ---
-## New Features🔥
-```markdown
-- { Minecraft_Emote } : Cari Emote Minecraft
-- { GET_EMOTE_DETAIL } : Cari Detail Emote
-- { RANDOM_EMOTES } : Cari Emote Random 
-```
----
 # Kontributor
 Programmer yang telah membantu dalam pembuatan modul ini:
 
-- Selxyz
+- [`Selxyz`](https://wa.me/6282181938329) 
+- [`Hann`](https://wa.me/6283824196477) 
+- [`Danii`](https://wa.me/6285819572683) 
+
+---
+
+# License
+
+- Project Ini Di Lindungi Oleh ISC. 
+
+---
