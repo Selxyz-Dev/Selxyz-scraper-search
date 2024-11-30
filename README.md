@@ -1,4 +1,4 @@
-# Selxyz-scraper-search
+# Selxyz-scraper
 
 Modul untuk kalian yang membutuhkan fungsi pencarian untuk sesuatu, seperti pencarian untuk anime, game, atau kategori lainnya.
 
@@ -6,10 +6,10 @@ Modul untuk kalian yang membutuhkan fungsi pencarian untuk sesuatu, seperti penc
 
 ## Cara Instalasi
 
-Untuk menginstal modul `selxyz-scraper-search`, gunakan perintah npm berikut:
+Untuk menginstal modul `selxyz-scraper`, gunakan perintah npm berikut:
 
 ```bash
-$ npm install selxyz-scraper-search
+$ npm install selxyz-scraper
 ```
 
 # Cara Penggunaan
@@ -17,7 +17,7 @@ $ npm install selxyz-scraper-search
 Karena modul ini menggunakan CommonJS, Anda bisa mengimpor modul dengan cara berikut:
 
 ```javascript
-const { anichin } = require('selxyz-scraper-search');
+const { anichin } = require('selxyz-scraper');
 ```
 
 - 2. Menggunakan Fungsi anichin
@@ -25,7 +25,7 @@ const { anichin } = require('selxyz-scraper-search');
 
 Contoh penggunaan:
 ```javascript
-const { anichin } = require('selxyz-scraper-search');
+const { anichin } = require('selxyz-scraper');
 
 anichin('soul land').then(data => {
   console.log(data); 
@@ -60,6 +60,6 @@ Programmer yang telah membantu dalam pembuatan modul ini:
 
 # License
 
-- Project Ini Di Lindungi Oleh ISC. 
+- Project Ini Di Lindungi Oleh License ISC. 
 
 ---
